@@ -2,7 +2,7 @@
 
 "Node Cellar" es un ejemplo de CRUD application hecha con Backbone.js, Twitter Bootstrap, Node.js, Express, y MongoDB.
 
-La aplicacion permite que tu naveges a travez de una lista de vinos, tan agregar nuevos vinos, modificarlos, y eliminarlos.
+La aplicacion permite que tu navegues a travez de una lista de vinos, tan agregar nuevos vinos, modificarlos, y eliminarlos.
 
 Esta aplicacion esta tiene una documnetacion [aqui](http://coenraets.org/blog).
 
